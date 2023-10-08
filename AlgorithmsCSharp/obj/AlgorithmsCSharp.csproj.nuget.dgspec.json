@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CSharpAlgorithms\\AlgorithmExercisesOnCSharp\\AlgorithmsCSharp\\AlgorithmsCSharp.csproj": {}
+    "c:\\CSharpAlgorithms\\AlgorithmExercisesOnCSharp\\AlgorithmsCSharp\\AlgorithmsCSharp.csproj": {}
   },
   "projects": {
-    "C:\\CSharpAlgorithms\\AlgorithmExercisesOnCSharp\\AlgorithmsCSharp\\AlgorithmsCSharp.csproj": {
+    "c:\\CSharpAlgorithms\\AlgorithmExercisesOnCSharp\\AlgorithmsCSharp\\AlgorithmsCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CSharpAlgorithms\\AlgorithmExercisesOnCSharp\\AlgorithmsCSharp\\AlgorithmsCSharp.csproj",
+        "projectUniqueName": "c:\\CSharpAlgorithms\\AlgorithmExercisesOnCSharp\\AlgorithmsCSharp\\AlgorithmsCSharp.csproj",
         "projectName": "AlgorithmsCSharp",
-        "projectPath": "C:\\CSharpAlgorithms\\AlgorithmExercisesOnCSharp\\AlgorithmsCSharp\\AlgorithmsCSharp.csproj",
+        "projectPath": "c:\\CSharpAlgorithms\\AlgorithmExercisesOnCSharp\\AlgorithmsCSharp\\AlgorithmsCSharp.csproj",
         "packagesPath": "C:\\Users\\Arthur Rodrigues\\.nuget\\packages\\",
-        "outputPath": "C:\\CSharpAlgorithms\\AlgorithmExercisesOnCSharp\\AlgorithmsCSharp\\obj\\",
+        "outputPath": "c:\\CSharpAlgorithms\\AlgorithmExercisesOnCSharp\\AlgorithmsCSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Arthur Rodrigues\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,15 @@
+C:\CSharpAlgorithms\AlgorithmExercisesOnCSharp\AlgorithmsCSharp\bin\Debug\net6.0\AlgorithmsCSharp.exe
+c:\CSharpAlgorithms\AlgorithmExercisesOnCSharp\AlgorithmsCSharp\bin\Debug\net6.0\AlgorithmsCSharp.deps.json
+c:\CSharpAlgorithms\AlgorithmExercisesOnCSharp\AlgorithmsCSharp\bin\Debug\net6.0\AlgorithmsCSharp.runtimeconfig.json
+C:\CSharpAlgorithms\AlgorithmExercisesOnCSharp\AlgorithmsCSharp\bin\Debug\net6.0\AlgorithmsCSharp.dll
+C:\CSharpAlgorithms\AlgorithmExercisesOnCSharp\AlgorithmsCSharp\bin\Debug\net6.0\AlgorithmsCSharp.pdb
+C:\CSharpAlgorithms\AlgorithmExercisesOnCSharp\AlgorithmsCSharp\obj\Debug\net6.0\AlgorithmsCSharp.csproj.AssemblyReference.cache
+C:\CSharpAlgorithms\AlgorithmExercisesOnCSharp\AlgorithmsCSharp\obj\Debug\net6.0\AlgorithmsCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpAlgorithms\AlgorithmExercisesOnCSharp\AlgorithmsCSharp\obj\Debug\net6.0\AlgorithmsCSharp.AssemblyInfoInputs.cache
+C:\CSharpAlgorithms\AlgorithmExercisesOnCSharp\AlgorithmsCSharp\obj\Debug\net6.0\AlgorithmsCSharp.AssemblyInfo.cs
+C:\CSharpAlgorithms\AlgorithmExercisesOnCSharp\AlgorithmsCSharp\obj\Debug\net6.0\AlgorithmsCSharp.csproj.CoreCompileInputs.cache
+C:\CSharpAlgorithms\AlgorithmExercisesOnCSharp\AlgorithmsCSharp\obj\Debug\net6.0\AlgorithmsCSharp.dll
+C:\CSharpAlgorithms\AlgorithmExercisesOnCSharp\AlgorithmsCSharp\obj\Debug\net6.0\refint\AlgorithmsCSharp.dll
+C:\CSharpAlgorithms\AlgorithmExercisesOnCSharp\AlgorithmsCSharp\obj\Debug\net6.0\AlgorithmsCSharp.pdb
+c:\CSharpAlgorithms\AlgorithmExercisesOnCSharp\AlgorithmsCSharp\obj\Debug\net6.0\AlgorithmsCSharp.genruntimeconfig.cache
+c:\CSharpAlgorithms\AlgorithmExercisesOnCSharp\AlgorithmsCSharp\obj\Debug\net6.0\ref\AlgorithmsCSharp.dll
