@@ -8,24 +8,32 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Arthur Rodrigues\\.nuget\\packages\\": {}
+    "C:\\Users\\arthu\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CSharpAlgorithms\\AlgorithmExercisesOnCSharp\\AlgorithmsCSharp\\AlgorithmsCSharp.csproj",
+      "projectUniqueName": "c:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Prog\\TreinoAlgoritmo\\AlgorithmExercisesOnCSharp\\AlgorithmsCSharp\\AlgorithmsCSharp.csproj",
       "projectName": "AlgorithmsCSharp",
-      "projectPath": "C:\\CSharpAlgorithms\\AlgorithmExercisesOnCSharp\\AlgorithmsCSharp\\AlgorithmsCSharp.csproj",
-      "packagesPath": "C:\\Users\\Arthur Rodrigues\\.nuget\\packages\\",
-      "outputPath": "C:\\CSharpAlgorithms\\AlgorithmExercisesOnCSharp\\AlgorithmsCSharp\\obj\\",
+      "projectPath": "c:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Prog\\TreinoAlgoritmo\\AlgorithmExercisesOnCSharp\\AlgorithmsCSharp\\AlgorithmsCSharp.csproj",
+      "packagesPath": "C:\\Users\\arthu\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Prog\\TreinoAlgoritmo\\AlgorithmExercisesOnCSharp\\AlgorithmsCSharp\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Arthur Rodrigues\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\arthu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -49,7 +57,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -58,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.317\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -13,3 +13,17 @@ C:\CSharpAlgorithms\AlgorithmExercisesOnCSharp\AlgorithmsCSharp\obj\Debug\net6.0
 C:\CSharpAlgorithms\AlgorithmExercisesOnCSharp\AlgorithmsCSharp\obj\Debug\net6.0\AlgorithmsCSharp.pdb
 c:\CSharpAlgorithms\AlgorithmExercisesOnCSharp\AlgorithmsCSharp\obj\Debug\net6.0\AlgorithmsCSharp.genruntimeconfig.cache
 c:\CSharpAlgorithms\AlgorithmExercisesOnCSharp\AlgorithmsCSharp\obj\Debug\net6.0\ref\AlgorithmsCSharp.dll
+C:\Users\arthu\OneDrive\Área de Trabalho\Prog\TreinoAlgoritmo\AlgorithmExercisesOnCSharp\AlgorithmsCSharp\obj\Debug\net6.0\AlgorithmsCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\OneDrive\Área de Trabalho\Prog\TreinoAlgoritmo\AlgorithmExercisesOnCSharp\AlgorithmsCSharp\obj\Debug\net6.0\AlgorithmsCSharp.AssemblyInfoInputs.cache
+C:\Users\arthu\OneDrive\Área de Trabalho\Prog\TreinoAlgoritmo\AlgorithmExercisesOnCSharp\AlgorithmsCSharp\obj\Debug\net6.0\AlgorithmsCSharp.AssemblyInfo.cs
+C:\Users\arthu\OneDrive\Área de Trabalho\Prog\TreinoAlgoritmo\AlgorithmExercisesOnCSharp\AlgorithmsCSharp\obj\Debug\net6.0\AlgorithmsCSharp.csproj.CoreCompileInputs.cache
+C:\Users\arthu\OneDrive\Área de Trabalho\Prog\TreinoAlgoritmo\AlgorithmExercisesOnCSharp\AlgorithmsCSharp\obj\Debug\net6.0\AlgorithmsCSharp.dll
+C:\Users\arthu\OneDrive\Área de Trabalho\Prog\TreinoAlgoritmo\AlgorithmExercisesOnCSharp\AlgorithmsCSharp\obj\Debug\net6.0\refint\AlgorithmsCSharp.dll
+C:\Users\arthu\OneDrive\Área de Trabalho\Prog\TreinoAlgoritmo\AlgorithmExercisesOnCSharp\AlgorithmsCSharp\obj\Debug\net6.0\AlgorithmsCSharp.pdb
+C:\Users\arthu\OneDrive\Área de Trabalho\Prog\TreinoAlgoritmo\AlgorithmExercisesOnCSharp\AlgorithmsCSharp\bin\Debug\net6.0\AlgorithmsCSharp.exe
+C:\Users\arthu\OneDrive\Área de Trabalho\Prog\TreinoAlgoritmo\AlgorithmExercisesOnCSharp\AlgorithmsCSharp\bin\Debug\net6.0\AlgorithmsCSharp.deps.json
+C:\Users\arthu\OneDrive\Área de Trabalho\Prog\TreinoAlgoritmo\AlgorithmExercisesOnCSharp\AlgorithmsCSharp\bin\Debug\net6.0\AlgorithmsCSharp.runtimeconfig.json
+C:\Users\arthu\OneDrive\Área de Trabalho\Prog\TreinoAlgoritmo\AlgorithmExercisesOnCSharp\AlgorithmsCSharp\bin\Debug\net6.0\AlgorithmsCSharp.dll
+C:\Users\arthu\OneDrive\Área de Trabalho\Prog\TreinoAlgoritmo\AlgorithmExercisesOnCSharp\AlgorithmsCSharp\bin\Debug\net6.0\AlgorithmsCSharp.pdb
+C:\Users\arthu\OneDrive\Área de Trabalho\Prog\TreinoAlgoritmo\AlgorithmExercisesOnCSharp\AlgorithmsCSharp\obj\Debug\net6.0\AlgorithmsCSharp.genruntimeconfig.cache
+C:\Users\arthu\OneDrive\Área de Trabalho\Prog\TreinoAlgoritmo\AlgorithmExercisesOnCSharp\AlgorithmsCSharp\obj\Debug\net6.0\ref\AlgorithmsCSharp.dll
