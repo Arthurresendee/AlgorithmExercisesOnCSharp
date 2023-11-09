@@ -1,7 +1,5 @@
 ﻿
 public class Lasagna {
-    public int expectedMinutesInOven = 40;
-
     public int ExpectedMinutesInOven() => 40;
 
     public int RemainingMinutesInOven(int currentTime) =>  ExpectedMinutesInOven() - currentTime;

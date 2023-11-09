@@ -1,4 +1,4 @@
-﻿using AlgorithmsCSharp.Easy;
+﻿//Esse exemplo consiste em calcular o índice de massa corporal.
 
 namespace AlgorithmsCSharp.Easy
 {

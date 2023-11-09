@@ -1,5 +1,4 @@
-﻿
-using AlgorithmsCSharp.Easy;
+﻿//Esse exemplo consiste em mostrar para o usuário uma mensagem com nome de acordo com o Input do usuário.
 
 namespace AlgorithmsCSharp.Easy
 {
@@ -13,8 +12,7 @@ namespace AlgorithmsCSharp.Easy
     }
 
 }
-
-
+ 
 //using AlgorithmsCSharp.Easy;
 
 //Console.Write("Escreva seu nome: ");
