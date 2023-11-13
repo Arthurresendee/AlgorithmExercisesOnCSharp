@@ -1,4 +1,6 @@
-﻿//Esse exemplo consiste em multiplicar por 8 se o número passado for par ou multiplicar por 9 caso contrário.
+﻿//Esse exemplo consiste em multiplicar por 2 se o número passado for par ou caso contrário, apenas retornar o número
+
+using AlgorithmsCSharp.Easy;
 
 namespace AlgorithmsCSharp.Easy
 {
@@ -11,3 +13,4 @@ namespace AlgorithmsCSharp.Easy
         }
     }
 }
+//Console.WriteLine(multiplyEvenAndOdd.multiplicar(3));

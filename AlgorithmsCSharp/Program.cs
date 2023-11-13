@@ -1,5 +1,3 @@
 ﻿using AlgorithmsCSharp.Easy;
 
-double teste = multiplyEvenAndOdd.multiplicar(3);
-
-Console.WriteLine(teste);
+Console.WriteLine(multiplyEvenAndOdd.multiplicar(3));
